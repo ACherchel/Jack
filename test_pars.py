@@ -112,5 +112,5 @@ def calc():
             print(lenght_order, widht_order, size1, size2, t)
     print(lenght_order, widht_order, size1, size2, t)
 
-
+print('hello')
 calc()
